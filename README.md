@@ -1,4 +1,4 @@
-# 🧠Awesome AI Skills-
+# 🧠Awesome Agent Skills
 
 A collection of reusable coding standards and best practices, compatible with both **Claude Code** and **GitHub Copilot**. Drop these into any project to give your AI assistant consistent, opinionated guidance.
 
