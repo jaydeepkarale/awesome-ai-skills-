@@ -15,6 +15,7 @@ AI coding agents are only as good as the context you give them. This repo packag
 | Skill | Description | Claude Code | Copilot | Cursor | Windsurf |
 |-------|-------------|:-----------:|:-------:|:------:|:--------:|
 | [REST API Design](./rest-api-design/) | 12 production-grade REST API practices | ✅ | ✅ | ✅ | ✅ |
+| [SymCLI Math Engine](./symcli-math/) | Deterministic symbolic computation and code analysis | ✅ | ✅ | ✅ | ✅ |
 
 > More skills coming soon. [Contributions welcome!](#contributing)
 
