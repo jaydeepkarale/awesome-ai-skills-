@@ -15,6 +15,7 @@ AI coding agents are only as good as the context you give them. This repo packag
 | Skill | Description | Claude Code | Copilot | Cursor | Windsurf |
 |-------|-------------|:-----------:|:-------:|:------:|:--------:|
 | [REST API Design](./rest-api-design/) | 12 production-grade REST API practices | ✅ | ✅ | ✅ | ✅ |
+| [K8S Resource Limits](./k8s-resource-limits/) | Helps review, audit, or generate Kubernetes resource requests and limits | ✅ | ✅ | ✅ | ✅ |
 
 > More skills coming soon. [Contributions welcome!](#contributing)
 
