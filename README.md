@@ -15,6 +15,7 @@ AI coding agents are only as good as the context you give them. This repo packag
 | Skill | Description | Claude Code | Copilot | Cursor | Windsurf |
 |-------|-------------|:-----------:|:-------:|:------:|:--------:|
 | [REST API Design](./rest-api-design/) | 12 production-grade REST API practices | ✅ | ✅ | ✅ | ✅ |
+| [linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) | Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. | ✅ | ❌ | ❌ | ❌ |
 | [K8S Resource Limits](./k8s-resource-limits/) | Helps review, audit, or generate Kubernetes resource requests and limits | ✅ | ✅ | ✅ | ✅ |
 
 > More skills coming soon. [Contributions welcome!](#contributing)
