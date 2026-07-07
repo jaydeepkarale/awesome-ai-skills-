@@ -16,6 +16,7 @@ AI coding agents are only as good as the context you give them. This repo packag
 |-------|-------------|:-----------:|:-------:|:------:|:--------:|
 | [REST API Design](./rest-api-design/) | 12 production-grade REST API practices | ✅ | ✅ | ✅ | ✅ |
 | [K8S Resource Limits](./k8s-resource-limits/) | Helps review, audit, or generate Kubernetes resource requests and limits | ✅ | ✅ | ✅ | ✅ |
+| [RouterBase Model Gateway](./routerbase-model-gateway/) | Integrate apps with [routerbase](https://routerbase.com/) for OpenAI-compatible API setup, model routing, fallback, and media generation guardrails | ✅ | ✅ | ✅ | ✅ |
 
 > More skills coming soon. [Contributions welcome!](#contributing)
 
