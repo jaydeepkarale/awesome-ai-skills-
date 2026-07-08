@@ -16,6 +16,7 @@ AI coding agents are only as good as the context you give them. This repo packag
 |-------|-------------|:-----------:|:-------:|:------:|:--------:|
 | [REST API Design](./rest-api-design/) | 12 production-grade REST API practices | ✅ | ✅ | ✅ | ✅ |
 | [K8S Resource Limits](./k8s-resource-limits/) | Helps review, audit, or generate Kubernetes resource requests and limits | ✅ | ✅ | ✅ | ✅ |
+| [Tree Ring Memory](./tree-ring-memory/) | Local-first memory lifecycle guidance for AI agents with recall, evidence, forgetting, redaction, and audit habits | ✅ | ✅ | ✅ | ✅ |
 
 > More skills coming soon. [Contributions welcome!](#contributing)
 
